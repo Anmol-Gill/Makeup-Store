@@ -15,3 +15,11 @@ This is a **Spring Boot web application** for managing a makeup store. Users can
 
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/7d403577-4d39-477a-a143-32ba5c6741e1)
+
+
+## Technologies Used
+- Java 17
+- Spring Boot
+- MySQL
+- JPA and Hibernate ORM
+- JUnit 5
