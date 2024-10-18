@@ -14,3 +14,4 @@ This is a **Spring Boot web application** for managing a makeup store. Users can
 - **Unit Testing:** Repository, service, and parameterized tests using JUnit 5.
 
 ## Project Structure
+![image](https://github.com/user-attachments/assets/7d403577-4d39-477a-a143-32ba5c6741e1)
