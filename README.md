@@ -1,7 +1,9 @@
 # Makeup-Store
 Makeup Store: Spring Boot Web Application
 Description
-This is a Spring Boot web application for managing a makeup store. It allows users to sign up, log in, browse products, place orders, and manage their account. The backend is powered by MySQL with JPA and Hibernate ORM, and the frontend uses HTML, CSS, and JavaScript.
+The Makeup Store Web Application is a full-featured e-commerce platform designed for managing makeup products. It allows users to browse products, place orders, and manage their accounts with a secure login and sign-up system.
+
+This application demonstrates a complete end-to-end web solution using Spring Boot for the backend, HTML/CSS/JavaScript for the frontend, and MySQL as the relational database management system.
 
 ### Description
 This is a **Spring Boot web application** for managing a makeup store. Users can **sign up, log in, browse products,** and **place orders.** The backend is powered by **MySQL** with **JPA and Hibernate ORM** to manage the database.
@@ -14,7 +16,7 @@ This is a **Spring Boot web application** for managing a makeup store. Users can
 - **Unit Testing:** Repository, service, and parameterized tests using JUnit 5.
 
 ## Project Structure
-![image](https://github.com/user-attachments/assets/7d403577-4d39-477a-a143-32ba5c6741e1)
+![image](https://github.com/user-attachments/assets/4eca3342-3b37-4770-9d40-6cbbd8a38068)
 
 
 ## Technologies Used
