@@ -7,10 +7,10 @@ This is a Spring Boot web application for managing a makeup store. It allows use
 This is a **Spring Boot web application** for managing a makeup store. Users can **sign up, log in, browse products,** and **place orders.** The backend is powered by **MySQL** with **JPA and Hibernate ORM** to manage the database.
 
 ## Features
-- **User Authentication:** Secure sign-up and login using **BCrypt** for password hashing.
+- **User Authentication:** Secure sign-up and login.
 - **Product Management:** Create, read, update, and delete products.
 - **Order Management:** Users can place orders and view order details.
-- **Database Integration:** Uses **MySQL** with JPA/Hibernate ORM.
-- **Unit Testing:** Repository, service, and parameterized tests using **JUnit 5** and **Mockito**.
+- **Database Integration:** Uses MySQL with JPA/Hibernate ORM.
+- **Unit Testing:** Repository, service, and parameterized tests using JUnit 5.
 
 ## Project Structure
